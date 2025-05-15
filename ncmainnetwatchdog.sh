@@ -7,7 +7,7 @@ PROJECT_DIR="$HOME/nockchain"
 FOLLOWER_SESSION="nock-follower"
 SMTP_EMAIL="79sends@gmail.com"
 SMTP_PASSWORD="rfkfwalbaktmyqwl"
-EMAIL_RECIPIENT="ibraheem9omar@gmail.com"
+EMAIL_RECIPIENT="alzweidi@gmail.com"
 LOG_FILE="$PROJECT_DIR/watchdog.log"
 SYNC_TIMEOUT_SEC=900  # 15 minutes
 
